@@ -1,0 +1,11 @@
+.calculator{
+  width:20%;
+  background-color: red;
+}
+
+.display{
+  width: 100%;
+}
+button{
+  width: 30%;
+}
